@@ -1,9 +1,11 @@
+#Demo of the application
+
 ![Demo](https://media3.giphy.com/media/S6Yw9c1mvxv71lH7Cv/giphy.gif?cid=790b7611b2e9506af811769110b21ed2a5ee93a1c173f6c1&rid=giphy.gif&ct=g)
 
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
