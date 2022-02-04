@@ -1,4 +1,4 @@
-#Demo of the application
+# Demo of the application
 
 ![Demo](https://media3.giphy.com/media/S6Yw9c1mvxv71lH7Cv/giphy.gif?cid=790b7611b2e9506af811769110b21ed2a5ee93a1c173f6c1&rid=giphy.gif&ct=g)
 
