@@ -1,6 +1,6 @@
 # Demo of the application
 
-![Demo](https://media3.giphy.com/media/S6Yw9c1mvxv71lH7Cv/giphy.gif?cid=790b7611b2e9506af811769110b21ed2a5ee93a1c173f6c1&rid=giphy.gif&ct=g)
+![Demo](https://media2.giphy.com/media/id0ysJddLG5xKGP4xK/giphy.gif?cid=790b76115ab8af68db55fb28337d317947bc92751086e0a0&rid=giphy.gif&ct=g)
 
 
 
